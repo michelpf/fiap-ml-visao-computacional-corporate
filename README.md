@@ -69,7 +69,7 @@ Aulas no programa atualizado da disciplina:
 
 📘 [Notebook desafio 1 (solução): identificação de cores](https://github.com/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-1-introducao-visao-computacional/desafio-1/desafio-1-solucao.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-1-introducao-visao-computacional/desafio-1/desafio-1-solucao-colab.ipynb) [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-1-introducao-visao-computacional/desafio-1/desafio-1-solucao-kaggleipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-1-introducao-visao-computacional/desafio-1/desafio-1-solucao-colab.ipynb) [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-1-introducao-visao-computacional/desafio-1/desafio-1-solucao-kaggle.ipynb)
 
 
 ## 📝  2. Manipulação de imagens
@@ -117,9 +117,9 @@ Aulas no programa atualizado da disciplina:
 
 ## 3. Classificação de objetos e análise facial
 
-📙 [Notebook classificação de objetos e análise facial](https://github.com/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-4-classificacao-objetos-analise-facial/classificacao-objetos.ipynb)
+📙 [Notebook classificação de objetos e análise facial](https://github.com/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-3-classificacao-objetos-analise-facial/classificacao-objetos.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-4-classificacao-objetos-analise-facial/classificacao-objetos-colab.ipynb) [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-4-classificacao-objetos-analise-facial/classificacao-objetos-kaggle.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-3-classificacao-objetos-analise-facial/classificacao-objetos-colab.ipynb) [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-3-classificacao-objetos-analise-facial/classificacao-objetos-kaggle.ipynb)
 
 ### 3.1 Classificadores de objetos e análise facial 👦
 
@@ -132,19 +132,19 @@ Aulas no programa atualizado da disciplina:
 
 Notebook desafio 1: transformação de imagens 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-4-classificacao-objetos-analise-facial/desafio-1/desafio-1-colab.ipynb) [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-4-classificacao-objetos-analise-facial/desafio-1/desafio-1-kaggle.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-3-classificacao-objetos-analise-facial/desafio-1/desafio-1-colab.ipynb) [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-3-classificacao-objetos-analise-facial/desafio-1/desafio-1-kaggle.ipynb)
 
 Notebook desafio 1 (solução): transformação de imagens 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-4-classificacao-objetos-analise-facial/desafio-1/desafio-1-solucao-colab.ipynb) [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-4-classificacao-objetos-analise-facial/desafio-1/desafio-1-solucao-kaggle.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-3-classificacao-objetos-analise-facial/desafio-1/desafio-1-solucao-colab.ipynb) [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-3-classificacao-objetos-analise-facial/desafio-1/desafio-1-solucao-kaggle.ipynb)
 
 Notebook desafio 2: transformação de imagens 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-4-classificacao-objetos-analise-facial/desafio-2/desafio-2-colab.ipynb) [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-4-classificacao-objetos-analise-facial/desafio-2/desafio-2-kaggle.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-3-classificacao-objetos-analise-facial/desafio-2/desafio-2-colab.ipynb) [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-3-classificacao-objetos-analise-facial/desafio-2/desafio-2-kaggle.ipynb)
 
 Notebook desafio 2 (solução): transformação de imagens 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-4-classificacao-objetos-analise-facial/desafio-2/desafio-2-solucao-colab.ipynb) [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-4-classificacao-objetos-analise-facial/desafio-2/desafio-2-solucao-kaggle.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-3-classificacao-objetos-analise-facial/desafio-2/desafio-2-solucao-colab.ipynb) [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-3-classificacao-objetos-analise-facial/desafio-2/desafio-2-solucao-kaggle.ipynb)
 
 
 ## 4. Machine learning, deep learning e transfer learning aplicado a imagens
