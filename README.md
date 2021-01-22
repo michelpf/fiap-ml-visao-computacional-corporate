@@ -149,15 +149,9 @@ Notebook desafio 2 (solução): transformação de imagens
 
 ## 4. Machine learning, deep learning e transfer learning aplicado a imagens
 
-📙 [Notebook reconhecimento facial](https://github.com/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-5-machine-learning-aplicado/machine-learning.ipynb)
+📙 [Notebook reconhecimento facial, objetos, OCR modificado e transfer learning](https://github.com/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-4-machine-learning-aplicado/machine-learning.ipynb)
 
-📙 [Notebook OCR & captcha](https://github.com/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-5-machine-learning-aplicado/machine-learning.ipynb)
-
-📙 [Notebook transfer learning](https://github.com/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-5-machine-learning-aplicado/transfer-learning-fruits.ipynb)
-
-📙 [Notebook Reconhecimento de objetos em tempo real](https://github.com/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-5-machine-learning-aplicado/yolo-realtime.ipynb)
-
-📕 Notebook reconhecimento facial, deep learning para OCR, transfer learning e detecção de objetos [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-5-machine-learning-aplicado/machine-learning-colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-4-machine-learning-aplicado/machine-learning-colab.ipynb) [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-4-machine-learning-aplicado/machine-learning-kaggle.ipynb)
 
 ### 4.1 Deep learning e transfer learning aplicado a visão computacional 👾
 
@@ -168,13 +162,22 @@ Notebook desafio 2 (solução): transformação de imagens
 
 ### 4.2 Desafios
 
-🚩 Notebook desafio 1: reconhecimento de faces [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-5-machine-learning-aplicado/desafio-1/desafio-1-colab.ipynb)
+📘 [Notebook desafio 1: reconhecimento de face](https://github.com/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-4-machine-learning-aplicado/desafio-1/desafio-1.ipynb)
 
-✅ Notebook desafio 1 (solução): reconhecimento de faces [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-5-machine-learning-aplicado/desafio-1/desafio-1-solucao-colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-4-machine-learning-aplicado/desafio-1/desafio-1-colab.ipynb) [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-4-machine-learning-aplicado/desafio-1/desafio-1-kaggle.ipynb)
 
-🚩 Notebook desafio 2: detecção de objetos [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-5-machine-learning-aplicado/desafio-2/desafio-2-colab.ipynb)
+📘 [Notebook desafio 1 (solução): reconhecimento de face](https://github.com/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-5-machine-learning-aplicado/desafio-1/desafio-1.ipynb)
 
-✅ Notebook desafio 2 (solução): detecção de objetos [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-5-machine-learning-aplicado/desafio-2/desafio-2-solucao-colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-4-machine-learning-aplicado/desafio-1/desafio-1-solucao-colab.ipynb) [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-4-machine-learning-aplicado/desafio-1/desafio-1-solucao-kaggle.ipynb)
+
+📘 [Notebook desafio 2: detecção de objetos](https://github.com/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-4-machine-learning-aplicado/desafio-2/desafio-2.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-4-machine-learning-aplicado/desafio-2/desafio-2-colab.ipynb) [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-4-machine-learning-aplicado/desafio-2/desafio-2-kaggle.ipynb)
+
+
+📘 [Notebook desafio 2 (solução): detecção de objetos](https://github.com/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-4-machine-learning-aplicado/desafio-2/desafio-2-solucao.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-4-machine-learning-aplicado/desafio-2/desafio-2-solucao-colab.ipynb) [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/michelpf/fiap-ml-visao-computacional-corporate/blob/master/aula-4-machine-learning-aplicado/desafio-2/desafio-2-solucao-kaggle.ipynb)
 
 ## Capstones
 
